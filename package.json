@@ -1,0 +1,23 @@
+{
+  "name": "nodeserver",
+  "version": "1.0.0",
+  "description": "servidor de prueba para clase de Edwin",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/educasram/nodeServer.git"
+  },
+  "keywords": [
+    "m"
+  ],
+  "author": "Miguel Castillo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/educasram/nodeServer/issues"
+  },
+  "homepage": "https://github.com/educasram/nodeServer#readme"
+}
